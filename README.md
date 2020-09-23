@@ -1,2 +1,2 @@
-# nativeOfEssos.io
+# nativeOfEssos.github.io
 The goal of this page is to help people fromt the village of Bafoussam to get used to the in the city Yaounde...
